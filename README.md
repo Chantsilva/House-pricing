@@ -5,9 +5,9 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **From raw chaos to $50k accuracy — preprocessing is 80% of ML.**
+> **From raw chaos to $50.9k MAE - preprocessing is 80% of ML.**
 
-An end-to-end ML pipeline that predicts house prices in King County with **89.25% accuracy** (MAE $50,860) using **CatBoost on Clean_All**.
+An end-to-end ML pipeline that predicts house prices with MAE $50,860 (10.75% error) and R² 0.8775 on the test set (CatBoost).
 
 ---
 
